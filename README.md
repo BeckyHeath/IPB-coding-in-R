@@ -1,6 +1,13 @@
 # IPB-coding-in-R
  
- Repository to demostrate GitHub Repo creation
+ Repository to demostrate GitHub Repo creation. Course delivered on the 30th and 31st of August 2024. 
+ IPB Universiti Bogor 
+
+### Downloading R and R studio
+Link to getting set up with R [here](https://rstudio-education.github.io/hopr/starting.html)
+
+### Downloading and autheticating GitHub Desktop
+Link to getting set up with GitHub [here](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/setting-up-github-desktop)
 
 
 # Selected lessons from the University of Edinburgh's Coding Club: 
