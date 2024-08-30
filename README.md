@@ -6,7 +6,7 @@
 ### Downloading R and R studio
 Link to getting set up with R [here](https://rstudio-education.github.io/hopr/starting.html)
 
-### Downloading GitHub Desktop
+### Downloading and autheticating GitHub Desktop
 Link to getting set up with GitHub [here](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/setting-up-github-desktop)
 
 
